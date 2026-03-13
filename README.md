@@ -1,9 +1,6 @@
 Here are short notes for an HTML Quick Styler project (simple explanation useful for school/college projects):
 
 
----
-
-HTML Quick Styler – Short Notes
 
 1. Project Title:
 HTML Quick Styler
